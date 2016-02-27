@@ -1,7 +1,6 @@
 # Instantiating with `#initialize`
 
 ## Objectives
-asdfasdf CONFLICT!!
 
 1. What is the `#initialize` method?
 2. How does it work?
